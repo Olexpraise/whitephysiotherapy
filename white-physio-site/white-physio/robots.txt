@@ -1,7 +1,0 @@
-# Everyone, including search engines and AI assistants, may read the public pages.
-User-agent: *
-Allow: /
-Disallow: /styleguide.html
-
-# TODO when the domain is known, add the sitemap line (it must be a full address):
-# Sitemap: https://YOUR-DOMAIN/sitemap.xml

@@ -1,9 +1,0 @@
-# White Physiotherapy Clinic
-
-> Rehab | Fitness | Nutrition. Physiotherapy in Nigeria: home visits, 30-day guided recovery programmes delivered on WhatsApp, and in-person sessions at FlexRecovery Studio.
-
-## Care options
-
-- Home physiotherapy visits: a physiotherapist comes to your home for assessment and hands-on treatment. Suitable for elderly mobility, stroke rehabilitation, post-surgery rehab, shoulder and hip pain, and posture and spine correction.
-- 30-day do-it-at-home recovery programmes: daily video exercises with WhatsApp support, for sciatica and lower back pain, piriformis syndrome (buttock pain), cervical spondylosis (neck pain) and knee arthritis (knee pain).
-- FlexRecovery Studio: an in-person recovery studio run by White Physiotherapy.
