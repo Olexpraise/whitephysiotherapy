@@ -1,0 +1,9 @@
+# These 3 conditions moved from TeleRehab to Home Visit on 2026-09-26 (client request) and their
+# /programmes/... pages were deleted. Anyone with an old link, bookmark, or a Google result for them
+# lands on the home-visit page instead of a 404. See HANDOFF.md for the full change.
+/programmes/carpal-tunnel-de-quervain       /home-service   301!
+/programmes/carpal-tunnel-de-quervain.html  /home-service   301!
+/programmes/erbs-palsy-injection-palsy      /home-service   301!
+/programmes/erbs-palsy-injection-palsy.html /home-service   301!
+/programmes/plantar-fasciitis               /home-service   301!
+/programmes/plantar-fasciitis.html          /home-service   301!
