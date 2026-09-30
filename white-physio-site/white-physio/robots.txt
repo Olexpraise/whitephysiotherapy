@@ -1,0 +1,6 @@
+# Everyone, including search engines and AI assistants, may read the public pages.
+User-agent: *
+Allow: /
+Disallow: /styleguide.html
+
+Sitemap: https://whitephysiotherapyclinic.com.ng/sitemap.xml
